@@ -1,6 +1,6 @@
 <html>
 <head>
-<title></title>
+<title>AI</title>
 <body>
 </body>
 </head>
